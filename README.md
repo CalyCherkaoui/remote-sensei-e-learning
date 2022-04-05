@@ -112,16 +112,9 @@ This API provides the following Endpoints:
 
 ## API URL:
 
-https://task-n-track.herokuapp.com/
-
 ## Fullstack App live demo
 
-[Check here the link to the deployed full-stack App ](https://stupefied-tereshkova-39efa6.netlify.app)
-
-## Front-end side
-
-- [Check the GitHub repository of the front-end side of the project here!](https://github.com/CalyCherkaoui/task-track-front-end)
-- [Check the deployed version of the front-end side of the project here!](https://stupefied-tereshkova-39efa6.netlify.app)
+[Check here the link to the deployed full-stack App ]()
 
 ## Dependencies
 The main dependencies used in this web application:
@@ -247,8 +240,8 @@ The main dependencies used in this web application:
 To get a local copy of the repository, please run the following commands on your terminal:
 
 ```
-$ git clone git@github.com:CalyCherkaoui/task-tracker-backend-api.git
-$ cd TaskAndTrack-backend-api
+$ git clone git@github.com:CalyCherkaoui/.git
+$ cd 
 $ git branch feature
 $ git checkout feature
 
