@@ -23,10 +23,7 @@ In this project, I built an online learning platform.
 ## Table of content
 - [About the project](#about-the-project)
 - [Built with](#built-with)
-- [API documentation](#api-documentation)
-- [API Endpoints](#api-endpoints)
-- [API URL](#api-url)
-- [Fullstack App live demo](#fullstack-app-live-demo)
+- [App live demo](#app-live-demo)
 - [Front-end side](#front-end-side)
 - [Dependencies](#dependencies)
 - [Linting tools](#linting-tools)
@@ -43,74 +40,6 @@ In this project, I built an online learning platform.
 <br>
 <img width="800px" src="./public/screenshots/documentation.png">
 <br>
-
-## API Endpoints
-This API provides the following Endpoints:
-<table>
-  <tr>
-    <th>RESTful Endpoint</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>POST /api/v1/signup</td>
-    <td>Signup of a new user</td>
-  </tr>
-  <tr>
-    <td>POST /api/v1/login</td>
-    <td>Login a registred user</td>
-  </tr>
-  <tr>
-    <td>DELETE /api/v1/logout</td>
-    <td>Logout a logged in user</td>
-  </tr>
-  <tr>
-    <td>GET /api/v1/users/:id</td>
-    <td>Get a user profile</td>
-  </tr>
-  <tr>
-    <td>POST /api/v1/routines</td>
-    <td>Create a new routine</td>
-  </tr>
-  <tr>
-    <td>GET /api/v1/routines/:id</td>
-    <td>Get a routine's details</td>
-  </tr>
-  <tr>
-    <td>GET /api/v1/allroutines</td>
-    <td>Get all routines names to be selected for the creation of a task</td>
-  </tr>
-  <tr>
-    <td>DELETE /api/v1/routines/:id</td>
-    <td>Destroy a routine</td>
-  </tr>
-  <tr>
-    <td>GET api/v1/tasks</td>
-    <td>List of all user's tasks</td>
-  </tr>
-  <tr>
-    <td>POST /api/v1/tasks</td>
-    <td>Create new task</td>
-  </tr>
-  <tr>
-    <td>GET /api/v1/tasks/:id</td>
-    <td>Provides task details</td>
-  </tr>
-  <tr>
-    <td>DELETE /api/v1/tasks/:id</td>
-    <td>Destroy task</td>
-  </tr>
-  <tr>
-    <td>GET /api/v1/alltasks</td>
-    <td>Get all tasks names to be selected for the creation of a measurement</td>
-  </tr>
-  <tr>
-    <td>POST /api/v1/mesurements</td>
-    <td>Create new mesurement</td>
-  </tr>
-</table>
-
-
-## API URL:
 
 ## Fullstack App live demo
 
