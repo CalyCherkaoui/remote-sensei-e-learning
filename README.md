@@ -24,7 +24,6 @@ In this project, I built an online learning platform.
 - [About the project](#about-the-project)
 - [Built with](#built-with)
 - [App live demo](#app-live-demo)
-- [Front-end side](#front-end-side)
 - [Dependencies](#dependencies)
 - [Linting tools](#linting-tools)
 - [Getting started](#getting-started-in-development)
@@ -34,12 +33,7 @@ In this project, I built an online learning platform.
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
 
-## API documentation
-[Full documentaion for this API here!](https://documenter.getpostman.com/view/16917110/U16ewTvn)
 
-<br>
-<img width="800px" src="./public/screenshots/documentation.png">
-<br>
 
 ## Fullstack App live demo
 
