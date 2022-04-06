@@ -35,9 +35,9 @@ In this project, I built an online learning platform.
 
 
 
-## Fullstack App live demo
+## App live demo
 
-[Check here the link to the deployed full-stack App ]()
+[Check here the link to the deployed App ]()
 
 ## Dependencies
 The main dependencies used in this web application:
