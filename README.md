@@ -163,7 +163,7 @@ The main dependencies used in this web application:
 To get a local copy of the repository, please run the following commands on your terminal:
 
 ```
-$ git clone git@github.com:CalyCherkaoui/.git
+$ git clone git@github.com:CalyCherkaoui/remote-sensei-e-learning.git
 $ cd 
 $ git branch feature
 $ git checkout feature
