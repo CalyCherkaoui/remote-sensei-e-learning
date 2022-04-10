@@ -5,7 +5,7 @@ In this project, I built an online learning platform.
 
 ### Main features:
  - Secure authentication system
- - Admin panel that allows the editing of routines' categories
+ - Admin panel
  - It allows the user to create a curiculum with a numbers of lessons.
  - It displays lists of lessons and curriculum ordered by priority and popularity.
 
