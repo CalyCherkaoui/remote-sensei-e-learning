@@ -172,8 +172,8 @@ $ git checkout feature
 
 ### Prerequisites:
 
-Ruby: 2.6.6
-Rails: 6.0.4
+Ruby: 3.1.1
+Rails: 7
 
 Run your Postgresql service in your terminal:
 
