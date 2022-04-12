@@ -100,13 +100,6 @@ The main dependencies used in this web application:
     <td></td>
   </tr>
   <tr>
-    <td>bcrypt</td>
-    <td>A secure hash algorithm for hashing passwords</td>
-    <td>⭐️</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
     <td>devise</td>
     <td>Flexible authentication solution for Rails based on Warden</td>
     <td>⭐️</td>
