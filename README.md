@@ -107,13 +107,6 @@ The main dependencies used in this web application:
     <td>⭐️</td>
   </tr>
   <tr>
-    <td>devise-jwt</td>
-    <td>Implementation of the RFC 7519 OAuth JSON Web Token standard</td>
-    <td>⭐️</td>
-    <td></td>
-    <td>⭐️</td>
-  </tr>
-  <tr>
     <td>rack-cors</td>
     <td>Support for Cross-Origin Resource Sharing for Rack compatible web apps</td>
     <td>⭐️</td>
