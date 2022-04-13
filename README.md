@@ -113,13 +113,6 @@ The main dependencies used in this web application:
     <td></td>
     <td>⭐️</td>
   </tr>
-  <tr>
-  <td>Jsonapi-rails</td>
-    <td>Rails helper for api resources serialization</td>
-    <td>⭐️</td>
-    <td></td>
-    <td>⭐️</td>
-  </tr>
   <td>Cancancan</td>
     <td>Rails helper for authorisation management</td>
     <td>⭐️</td>
